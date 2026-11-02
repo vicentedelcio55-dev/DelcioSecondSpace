@@ -1,0 +1,23 @@
+ .github/workflows/build-apk.yml  |  34 [32m++++++[m[31m--[m
+ .gitignore                       |  23 [32m+++++[m
+ .../8.7/checksums/checksums.lock | Bin [31m17[m -> [32m0[m bytes
+ .../checksums/md5-checksums.bin  | Bin [31m29747[m -> [32m0[m bytes
+ .../checksums/sha1-checksums.bin | Bin [31m80267[m -> [32m0[m bytes
+ .../gc.properties                |   0
+ .../fileChanges/last-build.bin   | Bin [31m1[m -> [32m0[m bytes
+ .../fileHashes/fileHashes.lock   | Bin [31m17[m -> [32m0[m bytes
+ .gradle/8.7/gc.properties        |   0
+ .../checksums/checksums.lock     | Bin [31m17[m -> [32m0[m bytes
+ .../checksums/md5-checksums.bin  | Bin [31m29747[m -> [32m0[m bytes
+ .../checksums/sha1-checksums.bin | Bin [31m41879[m -> [32m0[m bytes
+ .../fileChanges/last-build.bin   | Bin [31m1[m -> [32m0[m bytes
+ .../fileHashes/fileHashes.lock   | Bin [31m17[m -> [32m0[m bytes
+ .gradle/9.6.0/gc.properties      |   0
+ ...otlin-dsl-plugin-entries.lock | Bin [31m17[m -> [32m0[m bytes
+ .../buildOutputCleanup.lock      | Bin [31m17[m -> [32m0[m bytes
+ .../cache.properties             |   2 [31m-[m
+ .gradle/vcs-1/gc.properties      |   0
+ README.md                        |  27 [32m+++[m[31m---[m
+ app/build.gradle.kts             |  30 [32m+++++++[m
+ earch aapt                       |  42 [31m----------[m
+ 22 files changed, 91 insertions(+), 67 deletions(-)
